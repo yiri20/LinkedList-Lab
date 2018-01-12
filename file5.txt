@@ -527,21 +527,3 @@ insertAfter night-tide, ``````````````````````the
 remove `of
 size
 printList
-insertAfter `loved we
-insertAfter To me,
-remove ``was
-insertAfter thought other
-insertAfter `of seraphs
-remove It
-insertAfter Nor above
-insertTail soul
-insertAfter It 1849
-remove ``my
-insertHead `out
-insertAfter envying Went
-insertAfter ``was `she
-insertAfter ``my dissever
-insertHead Annabel
-remove Annabel
-insertHead Annabel
-printList   
