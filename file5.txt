@@ -541,7 +541,7 @@ insertHead `out
 insertAfter envying Went
 insertAfter ``was `she
 insertAfter ``my dissever
-insertHead ﻿Annabel
-remove ﻿Annabel
-insertHead ﻿Annabel
+insertHead Annabel
+remove Annabel
+insertHead Annabel
 printList   
