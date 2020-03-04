@@ -463,8 +463,8 @@ size
 printList
 insertAfter chilling cloud,
 insertAfter ```her shut
-insertHead ﻿Annabel
-remove ﻿Annabel
+insertHead Annabel
+remove Annabel
 insertAfter bringing without
 insertAfter no with
 remove know
@@ -499,21 +499,21 @@ size
 printList
 insertAfter ``the ``by
 insertAfter feel ``I
-insertHead ﻿Annabel
-remove ﻿Annabel
+insertHead Annabel
+remove Annabel
 insertAfter up ```her
 insertAfter `````a `with
 remove Lee
-insertHead ﻿Annabel
-remove ﻿Annabel
+insertHead Annabel
+remove Annabel
 insertAfter ``in angels
 insertAfter child ```a
-insertHead ﻿Annabel
-insertAfter Lee ﻿Annabel
+insertHead Annabel
+insertAfter Lee Annabel
 insertAfter know may
 insertAfter `lived she
 insertAfter `never stars
-remove ﻿Annabel
+remove Annabel
 insertAfter Than other
 remove night-tide,
 insertAfter rise, `never
