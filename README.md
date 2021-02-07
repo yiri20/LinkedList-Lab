@@ -1,4 +1,4 @@
-# Lab6-LinkedList
+# LinkedList Lab
 
 ## Purpose
 To build a single-linked list with the use of templates while handling memory management.
